@@ -9,7 +9,7 @@ ui_page 'html/index.html'
 shared_scripts {
 	'config.lua',
     '@qb-core/shared/locale.lua',
-	'locales/en.lua'
+	'locales/de.lua'
 }
 
 client_scripts {
@@ -36,8 +36,7 @@ files {
 dependencies {
 	'qb-core',
 	'qb-interior',
-	'qb-clothing',
-	'qb-weathersync'
+	'qb-clothing'
 }
 
 lua54 'yes'
