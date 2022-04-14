@@ -35,8 +35,7 @@ files {
 
 dependencies {
 	'qb-core',
-	'qb-interior',
-	'qb-clothing'
+	'qb-interior'
 }
 
 lua54 'yes'
